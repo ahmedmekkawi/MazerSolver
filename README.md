@@ -1,7 +1,6 @@
 # Mazer Solver
 # A simple console app written in c#
-# Upon running the app, you will need to provide the input full path of the maze text file, 
-# as well as the path where you want the result to be generated.
+# Upon running the app, you will need to provide the input full path of the maze text file, as well as the path where you want the result to be generated.
 
 # The following creterias has been followed:
 
